@@ -1,4 +1,4 @@
-# Predictive Modeling of Breast Cancer Metastasis using Clinical Genomics
+# Predictive Modeling of Breast Cancer Metastasis using Clinical Genomics - RandomForest
 
 ## 📌 Project Overview
 Metastasis is the primary cause of cancer-related mortality. This project leverages the **MSK-Impact (2018)** clinical dataset to develop a robust machine learning pipeline capable of predicting whether a breast cancer sample is **Primary** or **Metastastic** based on clinical and biological features.
